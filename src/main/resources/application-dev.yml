@@ -1,0 +1,8 @@
+server:
+  port: 8881
+  servlet:
+    context-path: /boot
+  aliyun:
+    www: ww
+    aa: 32
+    fa: 32re
